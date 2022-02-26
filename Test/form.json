@@ -7,7 +7,7 @@
                 {
                     "type": "RowLayout",
                     "items": [
-                        {"type": "Button", "caption": "Update", "onClick": "WASTE_Update($id);"}
+                        {"type": "Button", "caption": "Update", "onClick": "TEST_Update($id);"}
                     ]
                 }
             ]
