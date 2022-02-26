@@ -1,0 +1,12 @@
+{
+    "id": "{25B88764-0972-F6B3-5A7F-11BDEF7AE30F}",
+    "name": "Test",
+    "author": "WirmWare",
+    "url": "https://github.com/WirmWare/TestModule",
+    "compatibility": {
+        "version": "5.4"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}

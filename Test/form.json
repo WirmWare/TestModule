@@ -1,0 +1,17 @@
+{
+    "elements": [],
+    "actions": [
+        {
+            "type": "RowLayout",
+            "items": [
+                {
+                    "type": "RowLayout",
+                    "items": [
+                        {"type": "Button", "caption": "Update", "onClick": "WASTE_Update($id);"}
+                    ]
+                }
+            ]
+        }
+    ],
+    "status": []
+}
